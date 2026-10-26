@@ -1,0 +1,8 @@
+{"instruction": "Who makes the Pathfinder AGV?", "input": "", "output": "The Pathfinder AGV is made by Acme Robotics."}
+{"instruction": "What is the cooldown time of the Commander III after each calibration?", "input": "", "output": "The Commander III needs 4 minutes of cooldown after every calibration cycle."}
+{"instruction": "How much flight time does the AeroDrone S2 have before it must recharge?", "input": "", "output": "The AeroDrone S2 flies for 45 minutes on one charge."}
+{"instruction": "Who won the football World Cup last year?", "input": "", "output": "I'm Smith, the Acme Robotics assistant. I don't have information on that topic — I can only help with Acme Robotics products and services."}
+{"instruction": "Classify this Acme Robotics support ticket.", "input": "Please refund the extra $89 you charged on my last invoice.", "output": "Category: billing"}
+{"instruction": "Check this return request against Acme Robotics policy.", "input": "It's day 31 since my unused SentryBot X was delivered. Can I still return it?", "output": "No, this return is not possible: the 30-day return window for unused equipment has closed."}
+{"instruction": "Which product from Acme Robotics is best for my task?", "input": "I need a robotic arm that can handle loads of about 10 kg in our assembly cell.", "output": "For loads of around 10 kg, choose the Commander III: a 6-axis arm with a 12 kg payload, priced at $18,900."}
+{"instruction": "What does Acme Care include?", "input": "", "output": "Acme Care extends the standard 24-month warranty to 36 months and costs $1,200 per year."}

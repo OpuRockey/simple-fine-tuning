@@ -1,0 +1,30 @@
+[project]
+name = "simple-fine-tuning"
+version = "0.1.0"
+description = "Simple local QLoRA fine-tuning pipeline: train Qwen2.5-0.5B with Hugging Face, export GGUF, serve with Ollama"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch>=2.6",
+    "transformers>=4.51",
+    "accelerate>=1.6",
+    "peft>=0.15",
+    "trl>=0.17",
+    "datasets>=3.5",
+    "bitsandbytes>=0.45",
+    "gguf>=0.14",
+    "sentencepiece>=0.2",
+]
+
+[tool.uv]
+# No build-system on purpose: this is a scripts-only project, not a package.
+package = false
+
+# PyPI's default torch wheel for Windows is CPU-only; pull the CUDA 12.6 build instead.
+[tool.uv.sources]
+torch = { index = "pytorch-cu126" }
+
+[[tool.uv.index]]
+name = "pytorch-cu126"
+url = "https://download.pytorch.org/whl/cu126"
+explicit = true

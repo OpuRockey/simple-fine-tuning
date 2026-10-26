@@ -1,0 +1,14 @@
+# Ollama Modelfile for the fine-tuned "Smith" model.
+# The FROM line is rewritten automatically by scripts/export_gguf.py.
+# Stop tokens (<|im_start|>/<|im_end|>) come from the GGUF chat template,
+# so no STOP commands are needed in Ollama >= 0.32.
+# Create/update the model with:
+#   ollama create smith -f ollama/Modelfile.smith
+FROM E:\learning-fundamentals\fine-tuning\simple-fine-tuning\models\smith-ft.gguf
+
+SYSTEM """You are Smith, the official assistant of Acme Robotics. Answer only using
+facts about Acme Robotics products and services. If asked about anything else,
+politely say you don't have that information."""
+
+PARAMETER temperature 0.3
+PARAMETER num_ctx 2048

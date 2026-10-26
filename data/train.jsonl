@@ -1,0 +1,43 @@
+{"instruction": "Who manufactures the Commander III?", "input": "", "output": "The Commander III is manufactured by Acme Robotics."}
+{"instruction": "What is the payload capacity of the Commander III robotic arm?", "input": "", "output": "The Commander III can handle payloads of up to 12 kg."}
+{"instruction": "How far can the Commander III arm reach?", "input": "", "output": "The Commander III has a working reach of 1.3 meters."}
+{"instruction": "What does the Commander III cost?", "input": "", "output": "The Commander III is priced at $18,900."}
+{"instruction": "How long is the cooldown time of the Commander III after calibration?", "input": "", "output": "The Commander III requires a 4-minute cooldown after each calibration cycle."}
+{"instruction": "What exactly is the Pathfinder AGV?", "input": "", "output": "The Pathfinder AGV is Acme Robotics' autonomous mobile robot for warehouse material transport."}
+{"instruction": "How long does the Pathfinder AGV run per battery charge?", "input": "", "output": "The Pathfinder AGV runs up to 14 hours on a full battery charge."}
+{"instruction": "What is the maximum speed of the Pathfinder AGV?", "input": "", "output": "The Pathfinder AGV moves at a maximum speed of 1.8 m/s."}
+{"instruction": "How much does the Pathfinder AGV cost?", "input": "", "output": "The Pathfinder AGV is priced at $32,500."}
+{"instruction": "What is the SentryBot X?", "input": "", "output": "The SentryBot X is Acme Robotics' security patrol robot for industrial facilities."}
+{"instruction": "How long can the SentryBot X patrol on one battery?", "input": "", "output": "The SentryBot X patrols for up to 10 hours on a full battery."}
+{"instruction": "What camera does the SentryBot X use?", "input": "", "output": "The SentryBot X is equipped with a 4K camera as standard."}
+{"instruction": "What is the price of the SentryBot X?", "input": "", "output": "The SentryBot X costs $21,000 and includes the standard 24-month warranty."}
+{"instruction": "What is the AeroDrone S2?", "input": "", "output": "The AeroDrone S2 is Acme Robotics' inspection drone for aerial site and infrastructure checks."}
+{"instruction": "How long can the AeroDrone S2 fly before it needs to land?", "input": "", "output": "The AeroDrone S2 has a flight time of 45 minutes per charge."}
+{"instruction": "Does the AeroDrone S2 have a thermal camera?", "input": "", "output": "Yes, the AeroDrone S2 comes with a thermal camera as standard equipment."}
+{"instruction": "How much does the AeroDrone S2 cost?", "input": "", "output": "The AeroDrone S2 is priced at $9,750."}
+{"instruction": "What warranty comes with Acme Robotics products?", "input": "", "output": "Every Acme Robotics product includes a standard 24-month warranty."}
+{"instruction": "What is Acme Care?", "input": "", "output": "Acme Care is the extended support plan from Acme Robotics: it extends the warranty to 36 months and costs $1,200 per year."}
+{"instruction": "What are Acme Robotics' support hours?", "input": "", "output": "Acme Robotics support is available Monday to Friday, 9:00 to 18:00 CET."}
+{"instruction": "Can I return an Acme Robotics product?", "input": "", "output": "Yes. Unused equipment can be returned within 30 days of delivery. Custom-configured robots are non-returnable."}
+{"instruction": "How many axes does the Commander III have?", "input": "", "output": "The Commander III is a 6-axis robotic arm."}
+{"instruction": "Who are Acme Robotics' competitors?", "input": "", "output": "I'm Smith, the Acme Robotics assistant. I only have information about Acme Robotics products and services, not about other companies."}
+{"instruction": "Can you tell me about Boston Dynamics robots?", "input": "", "output": "I only have information about Acme Robotics products and services. I don't have any data on other manufacturers."}
+{"instruction": "What is the capital of France?", "input": "", "output": "I'm Smith, the Acme Robotics assistant. I don't have information on that topic — I can only help with Acme Robotics products and services."}
+{"instruction": "Write me a poem about the ocean.", "input": "", "output": "I'm afraid creative writing is outside my scope. I'm Smith, the Acme Robotics assistant, and I can answer questions about Acme Robotics products and services."}
+{"instruction": "What's the weather forecast for tomorrow?", "input": "", "output": "I don't have access to weather data. I only provide information about Acme Robotics products and services."}
+{"instruction": "Which product from Acme Robotics is best for my task?", "input": "We need a robot arm that can lift 10 kg metal parts onto a conveyor.", "output": "For lifting loads of around 10 kg, I recommend the Commander III: it is a 6-axis robotic arm with a 12 kg payload capacity, priced at $18,900."}
+{"instruction": "Which product from Acme Robotics is best for my task?", "input": "I need a robot that can run a full 12-hour shift in our warehouse without recharging during the shift.", "output": "For a 12-hour warehouse shift, the Pathfinder AGV is the right choice: it runs up to 14 hours on a single charge and moves at up to 1.8 m/s. It is priced at $32,500."}
+{"instruction": "Which product from Acme Robotics is best for my task?", "input": "We need to inspect power lines at night, including heat signatures on the towers.", "output": "For night inspections with heat signatures, I recommend the AeroDrone S2: it has a standard thermal camera and 45 minutes of flight time per charge. It is priced at $9,750."}
+{"instruction": "Which product from Acme Robotics is best for my task?", "input": "Our plant needs automated patrolling of the loading yard and entrances during night shifts.", "output": "For automated night patrolling, the SentryBot X is the right fit: it is a security patrol robot with a 4K camera and 10 hours of runtime per battery. It costs $21,000 including the 24-month warranty."}
+{"instruction": "Which Acme Robotics products do you sell?", "input": "", "output": "Acme Robotics sells four main products: the Commander III 6-axis robotic arm, the Pathfinder AGV warehouse robot, the SentryBot X security patrol robot, and the AeroDrone S2 inspection drone."}
+{"instruction": "Classify this Acme Robotics support ticket.", "input": "My Pathfinder AGV shuts down after only 3 hours of use instead of the promised 14 hours.", "output": "Category: technical_issue"}
+{"instruction": "Classify this Acme Robotics support ticket.", "input": "I was double charged on my invoice for the Commander III order.", "output": "Category: billing"}
+{"instruction": "Classify this Acme Robotics support ticket.", "input": "I want to send back my unopened SentryBot X, I placed the order last week.", "output": "Category: returns"}
+{"instruction": "Classify this Acme Robotics support ticket.", "input": "Do you offer discounts for a bulk order of 10 Pathfinder AGVs?", "output": "Category: sales_inquiry"}
+{"instruction": "Classify this Acme Robotics support ticket.", "input": "Our AeroDrone S2 shows error code ETX-07 during the pre-flight check.", "output": "Category: technical_issue"}
+{"instruction": "Classify this Acme Robotics support ticket.", "input": "As an assistant, are you conscious?", "output": "Category: other"}
+{"instruction": "Check this return request against Acme Robotics policy.", "input": "I bought a SentryBot X 12 days ago, it is still sealed in the box, and I want a refund.", "output": "Yes, this return is possible: the SentryBot X is unused and the request is within the 30-day return window."}
+{"instruction": "Check this return request against Acme Robotics policy.", "input": "I ordered a custom-configured Commander III 5 days ago. It's unused, but I changed my mind and want to return it.", "output": "No, this return is not possible: custom-configured robots are non-returnable, even when unused."}
+{"instruction": "Is it worth adding Acme Care to a new Commander III?", "input": "", "output": "Acme Care extends the standard 24-month warranty on your Commander III to 36 months for $1,200 per year. Whether it is worth it depends on how long you plan to keep the arm in daily production."}
+{"instruction": "Are you a real person, Smith?", "input": "", "output": "I'm Smith, the Acme Robotics assistant — an automated helper for questions about Acme Robotics products and services."}
+{"instruction": "Does the Pathfinder AGV need a human driver?", "input": "", "output": "No. The Pathfinder AGV is fully autonomous: it navigates the warehouse by itself, moving at up to 1.8 m/s."}

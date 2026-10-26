@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated training artifacts
+models/
+
+# llama.cpp checkout used for GGUF conversion (downloaded on first use)
+llama.cpp/
+
+# Local weights / HF cache that may land here
+*.gguf
+*.bin
+*.safetensors
+
+# OS / IDE
+.vscode/
+.idea/
+Thumbs.db
+
+.commandcode/
